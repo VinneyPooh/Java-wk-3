@@ -1,0 +1,26 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÄÛ²ıÿÿÿÿ8¾ü±›¸1
+[
+java:S1854"?Remove this useless assignment to local variable "basicsalary".(Àˆú(8Èü±›¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(òü‚èüÿÿÿÿ8Èü±›¸1
+X
+java:S1854"6Remove this useless assignment to local variable "id".(Ôı½íüÿÿÿÿ8Èü±›¸1
+[
+java:S1854">Remove this useless assignment to local variable "commission".(ìÜÎË8Èü±›¸1
+L	java:S106"+Replace this use of System.out by a logger.(û®«üÿÿÿÿ8Ìü±›¸1
+I
+java:S1481"'Remove this unused "id" local variable.(Ôı½íüÿÿÿÿ8Ìü±›¸1
+G	java:S106"+Replace this use of System.out by a logger.(Ñî·8Íü±›¸1
+K
+java:S1481")Remove this unused "name" local variable.(òü‚èüÿÿÿÿ8Íü±›¸1
+F	java:S106"+Replace this use of System.out by a logger.(öğÂ8Íü±›¸1
+L	java:S106"+Replace this use of System.out by a logger.(õ¬Ñõùÿÿÿÿ8Íü±›¸1
+L
+java:S1481"0Remove this unused "basicsalary" local variable.(Àˆú(8Îü±›¸1
+G	java:S106"+Replace this use of System.out by a logger.(¶ šä8Îü±›¸1
+G	java:S106#"+Replace this use of System.out by a logger.(¶ šä8Ïü±›¸1
+G	java:S106'"+Replace this use of System.out by a logger.(¶ šä8Ïü±›¸1
+G	java:S106+"+Replace this use of System.out by a logger.(¶ šä8Ïü±›¸1
+G	java:S106/"+Replace this use of System.out by a logger.(¶ šä8Ğü±›¸1
+]	java:S1252"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8øÎ²›¸1
