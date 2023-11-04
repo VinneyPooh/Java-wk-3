@@ -1,5 +1,10 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÄÛ²ýÿÿÿÿ8”®‘í·1
-L	java:S106"+Replace this use of System.out by a logger.(¤Î†ñýÿÿÿÿ8«®‘í·1
-L	java:S106"+Replace this use of System.out by a logger.(Ü æÅùÿÿÿÿ8¬®‘í·1
-L	java:S106"+Replace this use of System.out by a logger.(ˆŸÛäÿÿÿÿÿ8­®‘í·1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "Enter a number - " 3 times.(¤Î†ñýÿÿÿÿ8ÇÌªÀ¹1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÄÛ²ýÿÿÿÿ8ÇÌªÀ¹1
+L	java:S106"+Replace this use of System.out by a logger.(¤Î†ñýÿÿÿÿ8×ÌªÀ¹1
+L	java:S106"+Replace this use of System.out by a logger.(Ü æÅùÿÿÿÿ8×ÌªÀ¹1
+L	java:S106"+Replace this use of System.out by a logger.(ˆŸÛäÿÿÿÿÿ8×ÌªÀ¹1
+L	java:S106"+Replace this use of System.out by a logger.(¤Î†ñýÿÿÿÿ8×ÌªÀ¹1
+L	java:S106"+Replace this use of System.out by a logger.(¤Î†ñýÿÿÿÿ8×ÌªÀ¹1
+G	java:S106"+Replace this use of System.out by a logger.(ÜšÈØ8×ÌªÀ¹1
