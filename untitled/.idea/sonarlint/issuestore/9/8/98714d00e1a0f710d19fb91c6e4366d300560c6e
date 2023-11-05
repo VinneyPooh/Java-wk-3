@@ -1,8 +1,8 @@
 
-m
-java:S1192"PDefine a constant instead of duplicating this literal " County Name - " 5 times.(Ã´ç½8ï®”ï·1
 p
 java:S1192"SDefine a constant instead of duplicating this literal " , Capital name - " 5 times.(Ã´ç½8ÄÒ˜ï·1
+m
+java:S1192"PDefine a constant instead of duplicating this literal " County Name - " 5 times.(Ã´ç½8ï®”ï·1
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÄÛ²ýÿÿÿÿ8ð®”ï·1
 G	java:S106"+Replace this use of System.out by a logger.(Ã´ç½8ý®”ï·1
 L	java:S106"+Replace this use of System.out by a logger.(Üó¹Öùÿÿÿÿ8ý®”ï·1
