@@ -51,3 +51,7 @@ I
 src/javaClass3/Que20.java,f\7\f7691241cf917bfb3592b7a5313a3f8cd6c3f0dd
 I
 src/javaClass3/Que19.java,b\c\bc478a018cdd0ff65a77a087e79705d71a6214e7
+E
+src/midweek/Que1.java,7\d\7d9eee59653d0364b5b71aa7666f0fc0377ffa1d
+E
+src/midweek/Que2.java,6\a\6a6dd8006725de70b2c5701216820d468236556f
